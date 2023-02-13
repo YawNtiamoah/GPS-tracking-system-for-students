@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "274636051238",
+    "firebase_url": "https://final-ac797.firebaseio.com",
+    "project_id": "final-ac797",
+    "storage_bucket": "final-ac797.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274636051238:android:980cbe73568f00608fa7e7",
+        "android_client_info": {
+          "package_name": "com.yaw.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274636051238-59bt34kpa37kcunn39jcts0fec31q1lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6pLcdirkIgHCU-zBMyksBjcxx4M7f6AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274636051238-59bt34kpa37kcunn39jcts0fec31q1lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
