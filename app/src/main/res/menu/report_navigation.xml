@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tutor_report"
+        android:title="Tutor Report"
+        android:icon="@drawable/ic_tutreport"/>
+
+    <item
+        android:id="@+id/parent_report"
+        android:title="Parent Report"
+        android:icon="@drawable/ic_pareport"/>
+
+
+</menu>
